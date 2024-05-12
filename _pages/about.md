@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: jjjun0906@g.skku.edu / [github](https://github.com/wavyeon)
+subtitle: jjjun0906@g.skku.edu / <a href="[https://yourusername.github.io](https://github.com/wavyeon)">github</a>
 profile:
   align: right
   image: prof_pic.jpg
