@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: jjjun0906@g.skku.edu / [github](https://github.com/wavyeon)
 profile:
   align: right
   image: prof_pic.jpg
