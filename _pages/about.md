@@ -19,7 +19,6 @@ I am majoring in Computer Science and Engineering. My goal is to deliver a messa
 - University: Sungkyunkwan University (South Korea) 
   - Major: B.S. Computer Science and Engineering 2020.03.~
   - GPA: 3.96/4.5
-  - Awards: 2023 MAICON 
 
 ### Work Experience
 
@@ -36,3 +35,8 @@ I am majoring in Computer Science and Engineering. My goal is to deliver a messa
 - Programming Language: C, C++, Python, CUDA, Solidity
 - Web Programming: HTML, CSS, Javascript, React, Django
 - App Programming: Kotlin
+
+### Achievements and Certifications
+
+- Awards: 2023 MAICON
+- Certifications: Craftsman Information Processing
